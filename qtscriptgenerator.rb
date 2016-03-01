@@ -5,7 +5,7 @@ class Qtscriptgenerator < Formula
   homepage 'http://code.google.com/p/qtscriptgenerator/'
   md5 'ca4046ad4bda36cd4e21649d4b98886d'
 
-  depends_on 'anonymooseable/kde/qt'
+  depends_on 'viteke/kde/qt'
 
   def install
     system 'pwd; cat README;exit 78'

@@ -20,10 +20,10 @@ class Amarok < BaseKdeFormula
   depends_on 'libmtp'
   depends_on 'gdk-pixbuf'
   depends_on 'libgpod'
-  depends_on 'anonymooseable/kde/ffmpeg'
+  depends_on 'viteke/kde/ffmpeg'
   depends_on 'liblastfm'
   depends_on 'QJson'
-  depends_on 'anonymooseable/kde/qca'
+  depends_on 'viteke/kde/qca'
 
   #depends_on 'libmygpo-qt' # requires GCC 4.3 ? 4.4 ?
 

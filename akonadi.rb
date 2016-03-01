@@ -10,7 +10,7 @@ class Akonadi < BaseKdeFormula
   depends_on 'mysql'
   depends_on 'soprano'
   depends_on 'boost'
-  depends_on 'anonymooseable/kde/qt'
+  depends_on 'viteke/kde/qt'
 
   #def patches
   #  {:p0 => [
