@@ -2,8 +2,8 @@ require 'formula'
 
 class Qt < Formula
   homepage 'http://qt-project.org/'
-  url 'http://download.qt.io/official_releases/qt/4.8/4.8.7/qt-everywhere-opensource-src-4.8.7.tar.gz'
-  sha1 '76aef40335c0701e5be7bb3a9101df5d22fe3666'
+  url 'http://download.qt.io/official_releases/qt/4.8/4.8.6/qt-everywhere-opensource-src-4.8.6.tar.gz'
+  sha1 'ddf9c20ca8309a116e0466c42984238009525da6'
 
   bottle do
     revision 1
